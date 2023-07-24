@@ -44,12 +44,18 @@ The Two commands are of the same structure
 
 🚀 **Usage**
 -----------------
-To see how the app works, follow these instructions:
-1.After setting up enviroment,activatig the environment, and installing requirments,type
-```bash
-streamlit run App.py #in the terminal
-```
-This will open the App in your browser
+---
+title: Sentiment Analysis Gradio APP1
+emoji: 💻
+colorFrom: purple
+colorTo: pink
+sdk: gradio
+sdk_version: 3.38.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 👥 **Authors**
 =================
