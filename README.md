@@ -5,7 +5,7 @@
 
 |  | Project's Name | Article Link    | Deployment Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Sentiments-Analysis             |  -to perform further revenue calculations | [[https://github.com/gyesibiney/Project-](https://github.com/gyesibiney/Career-Accelerator-LP5-Sentinent-Analysis](https://huggingface.co/spaces/gyesibiney/Sentiment-Analysis-Gradio-APP1)) |
+| 1 |  -Sentiments-Analysis             |  -to perform further revenue calculations | (https://huggingface.co/spaces/gyesibiney/Sentiment-Analysis-Gradio-APP1) |
 
 
 # Analysis of Vaccination-Related Tweets Using Machine Learning ✨
