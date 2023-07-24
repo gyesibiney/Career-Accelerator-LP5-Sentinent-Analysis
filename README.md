@@ -3,12 +3,9 @@
    =================
 
 
-|  | Project's Name | Description    | GitHub's Link  |
+|  | Project's Name | Article Link    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Sales Analysis             |  -to perform further revenue calculations             | https://github.com/gyesibiney/Project-Alpha.git       |
-| 2 |  - Password Generator             |  - to generate passord and store in a dictionary            | https:// github.com/gyesibiney/Project-Beta.git      |
-| 3 |  -Patients Data Record Analysis              |  -Analyze patients data             | https://github.com/gyesibiney/Project-Gamma.git       |
-
+| 1 |  -Sentiments-Analysis             |  -to perform further revenue calculations             | https://github.com/gyesibiney/Project-
 
 
 # Streamlit_App
