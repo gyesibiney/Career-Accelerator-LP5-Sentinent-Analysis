@@ -5,7 +5,7 @@
 
 |  | Project's Name | Article Link    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Sentiments-Analysis             |  -to perform further revenue calculations             | https://github.com/gyesibiney/Project-
+| 1 |  -Sentiments-Analysis             |  -to perform further revenue calculations             | [https://github.com/gyesibiney/Project-](https://github.com/gyesibiney/Career-Accelerator-LP5-Sentinent-Analysis)
 
 
 # Analysis of Vaccination-Related Tweets Using Machine Learning ✨
