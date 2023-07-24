@@ -5,7 +5,7 @@
 
 |  | Project's Name | Article Link    | Deployment Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Sentiments-Analysis             |  -to perform further revenue calculations | (https://huggingface.co/spaces/gyesibiney/Sentiment-Analysis-Gradio-APP1) |
+| 1 |  -Sentiments-Analysis             |  (https://medium.com/@david.biney/implications-for-global-health-policy-and-vaccine-communication-from-the-analysis-of-20484049b983) | (https://huggingface.co/spaces/gyesibiney/Sentiment-Analysis-Gradio-APP1) |
 
 
 # Analysis of Vaccination-Related Tweets Using Machine Learning ✨
