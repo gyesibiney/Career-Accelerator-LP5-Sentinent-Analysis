@@ -8,14 +8,12 @@
 | 1 |  -Sentiments-Analysis             |  -to perform further revenue calculations             | https://github.com/gyesibiney/Project-
 
 
-# Streamlit_App
-
-# Building Machine Learning Applications With Streamlit ✨
+# Analysis of Vaccination-Related Tweets Using Machine Learning ✨
 
 📚 **Description**
 =================
 
-Welcome to Building Machine Learning Applications With Streamlit! This project is designed embed a machine learning file into an app for users. It's uses a previously trained time series model(Prophet).
+This project is to develop a machine-learning model capable of categorizing Twitter posts about vaccinations as either positive, neutral, or negative. By accomplishing this goal, the technology can be used to help governments and other public health entities track public sentiments about the COVID-19 vaccine.
 
 📖 **Table of Contents**
 =================
