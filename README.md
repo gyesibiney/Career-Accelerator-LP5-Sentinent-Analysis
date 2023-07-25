@@ -19,9 +19,9 @@ This project is to develop a machine-learning model capable of categorizing Twit
 =================
 - Installation
 - Usage
-- Authors
 - Acknowledgement
 - contact
+-  Authors
 
 🔧 **Installation**
 -----------------
@@ -57,12 +57,6 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-👥 **Authors**
-=================
-
-This project is developed and maintained by:
-- Jedida kisiang'ani
-Feel free to reach out to me with any questions or feedback!
 
 ✨ **Acknowledgments**
 =================
@@ -76,6 +70,10 @@ For any questions, concerns, or suggestions regarding  this project, please cont
 
 
 
+👥 **Authors**
+=================
 
-## Author 
-David GYESI BINEY
+This project is developed and maintained by:
+- David GYESI BINEY
+Feel free to reach out to me with any questions or feedback! 
+
