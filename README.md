@@ -21,7 +21,7 @@ This project is to develop a machine-learning model capable of categorizing Twit
 - Usage
 - Acknowledgement
 - contact
--  Authors
+- Authors
 
 🔧 **Installation**
 -----------------
@@ -74,6 +74,6 @@ For any questions, concerns, or suggestions regarding  this project, please cont
 =================
 
 This project is developed and maintained by:
-- David GYESI BINEY
-Feel free to reach out to me with any questions or feedback! 
+David GYESI BINEY
+- Feel free to reach out to me with any questions or feedback! 
 
